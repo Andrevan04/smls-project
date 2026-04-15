@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/smls-project/static/css/main.7a8de24b.css",
-    "main.js": "/smls-project/static/js/main.11f3b5be.js",
+    "main.css": "/smls-project/static/css/main.f83e7c85.css",
+    "main.js": "/smls-project/static/js/main.992322a7.js",
     "static/js/453.977b062c.chunk.js": "/smls-project/static/js/453.977b062c.chunk.js",
     "static/media/logo.png": "/smls-project/static/media/logo.5b2246ad16eadbb302e6.png",
     "index.html": "/smls-project/index.html",
-    "main.7a8de24b.css.map": "/smls-project/static/css/main.7a8de24b.css.map",
-    "main.11f3b5be.js.map": "/smls-project/static/js/main.11f3b5be.js.map",
+    "main.f83e7c85.css.map": "/smls-project/static/css/main.f83e7c85.css.map",
+    "main.992322a7.js.map": "/smls-project/static/js/main.992322a7.js.map",
     "453.977b062c.chunk.js.map": "/smls-project/static/js/453.977b062c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a8de24b.css",
-    "static/js/main.11f3b5be.js"
+    "static/css/main.f83e7c85.css",
+    "static/js/main.992322a7.js"
   ]
 }
